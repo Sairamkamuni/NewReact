@@ -1,0 +1,25 @@
+.counter-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .counter-heading {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .counter-value {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .counter-button {
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
